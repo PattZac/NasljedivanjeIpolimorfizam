@@ -1,0 +1,7 @@
+C:\Users\unkno\source\repos\NasljedivanjeIpolimorfizam\NasljedivanjeIpolimorfizam\bin\Debug\NasljedivanjeIpolimorfizam.exe.config
+C:\Users\unkno\source\repos\NasljedivanjeIpolimorfizam\NasljedivanjeIpolimorfizam\bin\Debug\NasljedivanjeIpolimorfizam.exe
+C:\Users\unkno\source\repos\NasljedivanjeIpolimorfizam\NasljedivanjeIpolimorfizam\bin\Debug\NasljedivanjeIpolimorfizam.pdb
+C:\Users\unkno\source\repos\NasljedivanjeIpolimorfizam\NasljedivanjeIpolimorfizam\obj\Debug\NasljedivanjeIpolimorfizam.csproj.AssemblyReference.cache
+C:\Users\unkno\source\repos\NasljedivanjeIpolimorfizam\NasljedivanjeIpolimorfizam\obj\Debug\NasljedivanjeIpolimorfizam.csproj.CoreCompileInputs.cache
+C:\Users\unkno\source\repos\NasljedivanjeIpolimorfizam\NasljedivanjeIpolimorfizam\obj\Debug\NasljedivanjeIpolimorfizam.exe
+C:\Users\unkno\source\repos\NasljedivanjeIpolimorfizam\NasljedivanjeIpolimorfizam\obj\Debug\NasljedivanjeIpolimorfizam.pdb
