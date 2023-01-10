@@ -204,18 +204,18 @@ namespace NasljedivanjeIpolimorfizam
         public bool addRating(Student S, int s)
         {
             bool check = false;
-            if (Score[0] != 0) {
+            if (Score[0]== 0) {
                 Stund[0] = S;
                 Score[0] = s;
                 check = true;
             }
-            else if (Score[1] != 0 && Stund[0] != S)
+            else if (Score[1]== 0 && Stund[0] != S)
             {
                 Stund[1] = S;
                 Score[1] = s;
                 check = true;
             }
-            if (Score[2] != 0 && Stund[0] != S && Stund[1] != S) {
+            if (Score[2]== 0 && Stund[0] != S && Stund[1] != S) {
                 Stund[2] = S;
                 Score[2] = s;
                 check = true;
